@@ -15,7 +15,7 @@
             android:text="heure"/>
 
         <TextView android:id="@+id/thetext"  android:layout_width="wrap_content" android:padding="1dp"
-            android:layout_height="wrap_content" android:text="Vous êtes sorti du mode ambient... Vous pouvez intéragir !" />
+            android:layout_height="wrap_content" android:text="Vous êtes sorti du mode ambient... Vous pouvez interagir !" />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
